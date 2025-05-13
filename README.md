@@ -6,16 +6,17 @@ El programa permite hacer conversión de monedas, permite a los usuarios calcula
 # Ejemplo de uso
 
 +----------+----------------------------------------+
-
 | Código   | Nombre                                 |
-
 +----------+----------------------------------------+
 
 | USD      | United States Dollar                   |
 
 | PEN      | New Peruvian Sun                       |
+
 | COP      | Colombian Peso                         |
+
 | ...      | ...                                    |
+
 +----------+----------------------------------------+
 1. Ingrese el código de la moneda de origen.
 2. Ingrese el código de la moneda de destino.
